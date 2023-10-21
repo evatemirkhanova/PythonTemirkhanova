@@ -1,0 +1,3 @@
+В том случае, когда количество манипуляций достаточно большое, применять формулу Бернулли становится нецелесообразно. Упростить решение задачи или доказательство выражения можно с помощью локальной и интегральной теорем Лапласа. Данные закономерности позволяют получить результат испытаний, приближенный к итогам вычислений по формуле Бернулли, и характеризуются меньшими расчетами.
+
+When the amount of manipulation is large enough, it is not practical to use the Bernoulli formula. The local and integral theorems of Laplace can simplify the solution or proof of an expression. These regularities give a test result that approximates the Bernoulli formula and are characterized by smaller calculations.
