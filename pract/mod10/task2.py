@@ -1,5 +1,4 @@
 import re
-import doctest
 
 def is_valid_date(date):
     """
